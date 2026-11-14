@@ -1,0 +1,12 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+A1,RaspberryPi_Pico_Common_Unspecified,1,RaspberryPi_Pico,
+D1,D_DO-41_SOD81_P7.62mm_Horizontal,1,D_Schottky,
+J1,PinHeader_1x08_P2.54mm_Vertical,1,TFT_ST7789,
+J2,PinHeader_1x06_P2.54mm_Vertical,1,microSD module,
+J3,PinHeader_1x06_P2.54mm_Vertical,1,PCM5102 DAC,
+J4,PinHeader_1x05_P2.54mm_Vertical,1,Encoder,
+J5,PinHeader_1x06_P2.54mm_Vertical,1,TP4056_Module,
+J6,PinHeader_1x04_P2.54mm_Vertical,1,MT3608_Module,
+J7,PinHeader_1x02_P2.54mm_Vertical,1,LiPo_Battery,
+"SW1, SW2, SW3, SW4",SW_PUSH_6mm,4,SW_Push,
+SW5,PinHeader_1x03_P2.54mm_Vertical,1,SW_SPDT,
