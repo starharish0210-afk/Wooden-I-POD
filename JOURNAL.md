@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/l8mgnrnbqjiyxjce6xsbgb48)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> its a cooolololol projecto mamamamhahahaha
+> Wooden I-Pod, a cool product to remind people of the memories they had in the 2010's, nowadays people use phones to listen to music, but we need the tradition of having I-Pod to listen to music, this i-pod is so cool to have and carry to hear music with a wired headphones, wired headphones are so unique and rare to see now, so this i-pod has it to listen to music
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
